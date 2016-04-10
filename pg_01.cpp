@@ -7,7 +7,7 @@
 
 int main(void) {
 	int money;								//金額を代入するための変数
-	int count;								//各金種の枚数を代入するための変数
+	int count;								//各金種の枚数を代入するための変数。
 
 	printf("金額を入力して下さい>");
 	scanf("%d",&money);
